@@ -1,10 +1,10 @@
 <scheme name="GitHub Primer Dark" version="142" parent_scheme="Darcula">
   <option name="FONT_SCALE" value="1.0" />
   <metaInfo>
-    <property name="created">2020-07-16T21:10:13</property>
+    <property name="created">2020-07-17T12:20:43</property>
     <property name="ide">idea</property>
     <property name="ideVersion">2020.1.3.0.0</property>
-    <property name="modified">2020-07-16T21:10:18</property>
+    <property name="modified">2020-07-17T12:20:52</property>
     <property name="originalScheme">GitHub Primer Dark</property>
   </metaInfo>
   <option name="CONSOLE_FONT_NAME" value=".SF NS Mono" />
@@ -25,7 +25,7 @@
     <option name="DIAGRAM_NODE_BACKGROUND" value="323844" />
     <option name="DIAGRAM_NODE_HEADER" value="414855" />
     <option name="DIAGRAM_NOTE_BACKGROUND" value="414855" />
-    <option name="DIAGRAM_NOTE_BORDER" value="5c6370" />
+    <option name="DIAGRAM_NOTE_BORDER" value="68737E" />
     <option name="DIAGRAM_REALIZATION_EDGE" value="85e89d" />
     <option name="DIFF_SEPARATORS_BACKGROUND" value="21252b" />
     <option name="DOCUMENTATION_COLOR" value="3d424b" />
@@ -58,7 +58,7 @@
     <option name="VCS_ANNOTATIONS_COLOR_5" value="46333c" />
     <option name="VISUAL_INDENT_GUIDE" value="3b4048" />
     <option name="WHITESPACES" value="4b575f" />
-    <option name="WHITESPACES_MODIFIED_LINES_COLOR" value="5c6370" />
+    <option name="WHITESPACES_MODIFIED_LINES_COLOR" value="68737E" />
   </colors>
   <attributes>
     <option name="ANNOTATION_ATTRIBUTE_NAME_ATTRIBUTES">
@@ -115,7 +115,7 @@
     <option name="BASH.REDIRECTION" baseAttributes="DEFAULT_OPERATION_SIGN" />
     <option name="BASH.SHEBANG">
       <value>
-        <option name="FOREGROUND" value="5c6370" />
+        <option name="FOREGROUND" value="68737E" />
         <option name="FONT_TYPE" value="1" />
       </value>
     </option>
@@ -297,7 +297,7 @@
     </option>
     <option name="CONSOLE_RANGE_TO_EXECUTE">
       <value>
-        <option name="EFFECT_COLOR" value="5c6370" />
+        <option name="EFFECT_COLOR" value="68737E" />
       </value>
     </option>
     <option name="CONSOLE_RED_BRIGHT_OUTPUT">
@@ -503,13 +503,13 @@
     </option>
     <option name="DEBUGGER_INLINED_VALUES">
       <value>
-        <option name="FOREGROUND" value="5c6370" />
+        <option name="FOREGROUND" value="68737E" />
         <option name="FONT_TYPE" value="2" />
       </value>
     </option>
     <option name="DEBUGGER_INLINED_VALUES_EXECUTION_LINE">
       <value>
-        <option name="FOREGROUND" value="5c6370" />
+        <option name="FOREGROUND" value="68737E" />
         <option name="FONT_TYPE" value="2" />
       </value>
     </option>
@@ -526,7 +526,7 @@
     </option>
     <option name="DEFAULT_BLOCK_COMMENT">
       <value>
-        <option name="FOREGROUND" value="5c6370" />
+        <option name="FOREGROUND" value="68737E" />
       </value>
     </option>
     <option name="DEFAULT_CLASS_NAME">
@@ -551,7 +551,7 @@
     </option>
     <option name="DEFAULT_DOC_COMMENT">
       <value>
-        <option name="FOREGROUND" value="5c6370" />
+        <option name="FOREGROUND" value="68737E" />
       </value>
     </option>
     <option name="DEFAULT_DOC_COMMENT_TAG">
@@ -600,7 +600,7 @@
     </option>
     <option name="DEFAULT_LINE_COMMENT">
       <value>
-        <option name="FOREGROUND" value="5c6370" />
+        <option name="FOREGROUND" value="68737E" />
       </value>
     </option>
     <option name="DEFAULT_LOCAL_VARIABLE">
@@ -691,7 +691,7 @@
     <option name="DIFF_DELETED">
       <value>
         <option name="BACKGROUND" value="353c46" />
-        <option name="ERROR_STRIPE_COLOR" value="5c6370" />
+        <option name="ERROR_STRIPE_COLOR" value="68737E" />
       </value>
     </option>
     <option name="DIFF_INSERTED">
@@ -799,7 +799,7 @@
     </option>
     <option name="GO_BLOCK_COMMENT">
       <value>
-        <option name="FOREGROUND" value="5c6370" />
+        <option name="FOREGROUND" value="68737E" />
       </value>
     </option>
     <option name="GO_BUILTIN_CONSTANT">
@@ -841,7 +841,7 @@
     <option name="GO_KEYWORD" baseAttributes="DEFAULT_KEYWORD" />
     <option name="GO_LINE_COMMENT">
       <value>
-        <option name="FOREGROUND" value="5c6370" />
+        <option name="FOREGROUND" value="68737E" />
       </value>
     </option>
     <option name="GO_LOCAL_FUNCTION" baseAttributes="DEFAULT_FUNCTION_DECLARATION" />
@@ -896,7 +896,7 @@
     </option>
     <option name="HAML_COMMENT">
       <value>
-        <option name="FOREGROUND" value="5c6370" />
+        <option name="FOREGROUND" value="68737E" />
       </value>
     </option>
     <option name="HAML_FILTER">
@@ -1010,7 +1010,7 @@
     <option name="INLINE_PARAMETER_HINT_HIGHLIGHTED">
       <value>
         <option name="FOREGROUND" value="e1e4e8" />
-        <option name="BACKGROUND" value="5c6370" />
+        <option name="BACKGROUND" value="68737E" />
       </value>
     </option>
     <option name="IVAR">
@@ -1323,7 +1323,7 @@
     </option>
     <option name="MARKDOWN_TABLE_SEPARATOR">
       <value>
-        <option name="FOREGROUND" value="5c6370" />
+        <option name="FOREGROUND" value="68737E" />
       </value>
     </option>
     <option name="MARKED_FOR_REMOVAL_ATTRIBUTES">
@@ -1377,7 +1377,7 @@
     </option>
     <option name="OC.CONDITIONALLY_NOT_COMPILED">
       <value>
-        <option name="FOREGROUND" value="5c6370" />
+        <option name="FOREGROUND" value="68737E" />
       </value>
     </option>
     <option name="OC.CPP_KEYWORD">
@@ -1704,7 +1704,7 @@
     </option>
     <option name="RUBY_COMMENT">
       <value>
-        <option name="FOREGROUND" value="5c6370" />
+        <option name="FOREGROUND" value="68737E" />
       </value>
     </option>
     <option name="RUBY_CONSTANT">
@@ -1880,7 +1880,7 @@
     </option>
     <option name="SLIM_COMMENT">
       <value>
-        <option name="FOREGROUND" value="5c6370" />
+        <option name="FOREGROUND" value="68737E" />
       </value>
     </option>
     <option name="SLIM_DOCTYPE_KWD">
@@ -1963,7 +1963,7 @@
     </option>
     <option name="SWIFT_SHEBANG_COMMENT">
       <value>
-        <option name="FOREGROUND" value="5c6370" />
+        <option name="FOREGROUND" value="68737E" />
         <option name="FONT_TYPE" value="1" />
       </value>
     </option>
